@@ -1,0 +1,28 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "Contacts Application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersonbarrion/contacts.git"
+  },
+  "keywords": [
+    "Contacts",
+    "Apps"
+  ],
+  "author": "emerson barrion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emersonbarrion/contacts/issues"
+  },
+  "homepage": "https://github.com/emersonbarrion/contacts#readme"
+}
